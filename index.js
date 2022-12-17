@@ -1,4 +1,3 @@
-
 console.log("Welcome To my News Channel ")
 let API_KEY = "5a8ab37aa4a344b09794784a4b4b3868";
 let xhr = new XMLHttpRequest();
