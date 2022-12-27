@@ -26,7 +26,7 @@ xhr.onload = function(){
             <div class="accordion-body">
               <strong>${element["description"]}</strong>
               <br>
-              <a href = '${element["url"]}' target = "_blank">Follow To read More</a>
+              <a href = '${element["link"]}' target = "_blank">Follow To read More</a>
             </div>
           </div>
         </div>`
