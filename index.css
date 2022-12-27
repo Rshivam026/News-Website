@@ -1,6 +1,4 @@
-body{
-    padding-top: 45px;
-}
+
 div#containerTop::before{
     content: "";
     background: url('bgpic.jpg') no-repeat center center/cover;
@@ -58,4 +56,7 @@ nav#nav>div>a{
 }
 .newslist{
     color: black;
+}
+#ListDiv{
+    padding-top: 50px;
 }
