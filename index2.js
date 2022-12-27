@@ -32,6 +32,7 @@ xhr.onload = function(){
         </div>`
         index++;
       }
+      console.log(element["link"]);
       document.getElementById("tobeinserted").innerHTML = str;
 }
 setInterval(() => {
